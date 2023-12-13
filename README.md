@@ -28,7 +28,7 @@ http://github.com/ubohex/sd-webui-oldsix-promptRU.git
 	{
         "Кошка": "cat",
         "Собака":"dog",
-	"Дракон":"dragon"
+	      "Дракон":"dragon"
   }
 }
 ```
